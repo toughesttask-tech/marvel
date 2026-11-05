@@ -1,0 +1,20 @@
+{
+  "name": "marvel-watchlist",
+  "version": "1.0.0",
+  "description": "Marvel Watchlist - Track your MCU movies and shows",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "marvel",
+    "mcu",
+    "watchlist"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.6.1"
+  }
+}
